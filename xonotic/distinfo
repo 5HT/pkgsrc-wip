@@ -1,0 +1,8 @@
+$NetBSD: distinfo,v 1.4 2021/10/26 10:44:34 nia Exp $
+
+SHA1 (xonotic-0.8.5.zip) = 83e68821e5a4f9203867591d838a685299b77ea2
+RMD160 (xonotic-0.8.5.zip) = 6cc3bd392e1e71f2986fb32de80e1d59f2dd042d
+SHA512 (xonotic-0.8.5.zip) = 4ffc4b73eeb5f580d178a98419d5b44cbff0c56e356a62baa729b5b7a6c3d43b2b425b123428c9b1bf3f4718eaf61bcf5d62914521cc061c7563a253440c807e
+Size (xonotic-0.8.5.zip) = 1228561792 bytes
+SHA1 (patch-source_darkplaces_hmac.c) = 58f6da84843f82fabd35e6a166e897fa1679a48a
+SHA1 (patch-source_darkplaces_hmac.h) = aa3dd533c2a6ccc0bb8836c5f6284c01db0fb0d4
