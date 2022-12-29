@@ -1,1 +1,8 @@
 - Get my NetBSD support branch integrated upstream
+
+- Build fails on Linux:
+
+In file included from /home/charlotte/pkgsrc/wip/overgrowth/work/overgrowth-506fd955a2edf881109edd16961964e5bb33e126/Source/Internal/dialogues.cpp:31:0: 
+/home/charlotte/pkgsrc/wip/overgrowth/work/overgrowth-506fd955a2edf881109edd16961964e5bb33e126/Projects/../Source/Wrappers/linux_gtk.h:28:10: fatal error: gtk/gtk.h: No such file or directory                                                                               
+ #include <gtk/gtk.h>                                                                                                                                           
+           ^~~~~~~~~~~                             
