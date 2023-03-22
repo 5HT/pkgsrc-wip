@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.14 2021/10/26 10:46:23 nia Exp $
+
+BLAKE2s (krita-5.1.5.tar.gz) = bbfc514692265fe1f29351ad257e4b4a305cb7f614c2ea69b6beeafbd554983b
+SHA512 (krita-5.1.5.tar.gz) = b7960dc377384aef2a4ca7aa849aa361f90df64f9ec72f68c0ba60c08150a29833e0f907d15ee51f2d9c151c17f0eb575f5db2c6c573e660fccddd81ee2305e9
+Size (krita-5.1.5.tar.gz) = 272987081 bytes
